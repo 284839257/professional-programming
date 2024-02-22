@@ -221,7 +221,7 @@ There are some free books available, including:
   - Substitutes impulse for commitment
   - Driven by experiences
 - [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
-  - Early in your career, you can learn 10x more in a supportive team in 1 year, than coding on your own
+  - Early in your career, you can learn 10x more in a supportive team in 1 year, than coding on your own.
   - Every company has problems, every company has technical debt.
   - Being overly opinionated on topics you lack real-world experience with is pretty arrogant.
   - Many conference talks cover proof of concepts rather than real-world scenarios.
